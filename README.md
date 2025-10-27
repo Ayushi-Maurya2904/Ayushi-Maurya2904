@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I’m Ayushi 👋
 
-<!--
-**Ayushi-Maurya2904/Ayushi-Maurya2904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**B.Tech CSE student • Frontend Developer • Open Source Contributor**
 
-Here are some ideas to get you started:
+- 🔭 Currently building small web games and polishing frontend fundamentals  
+- 🌱 Learning JavaScript, C++, and real-world Git workflows  
+- 🛠️ Tech: HTML · CSS · JavaScript · Git · VS Code  
+- 📫 Find me: https://github.com/Ayushi-Maurya2904
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Featured projects
+- **Games** — Mini web games (Tic Tac Toe, Rock Paper Scissors). Demo-ready, beginner-friendly.  
+  https://github.com/Ayushi-Maurya2904/Games
+  
+---
+
+## Quick stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayushi-Maurya2904&show_icons=true&count_private=true)
+
+---
+
+✨ Built with ❤️ by Ayushi Maurya
