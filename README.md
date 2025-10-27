@@ -1,23 +1,44 @@
-# Hi, I’m Ayushi 👋
+# 👋 Hi, I'm Ayushi Maurya
 
-**B.Tech CSE student • Frontend Developer • Open Source Contributor**
+🎓 **B.Tech CSE Student | Frontend Developer | Open Source Enthusiast**
 
-- 🔭 Currently building small web games and polishing frontend fundamentals  
-- 🌱 Learning JavaScript, C++, and real-world Git workflows  
-- 🛠️ Tech: HTML · CSS · JavaScript · Git · VS Code  
-- 📫 Find me: https://github.com/Ayushi-Maurya2904
+Welcome to my GitHub profile!  
+I’m passionate about building clean, interactive web experiences while mastering core CS fundamentals.
 
 ---
 
-## Featured projects
-- **Games** — Mini web games (Tic Tac Toe, Rock Paper Scissors). Demo-ready, beginner-friendly.  
-  https://github.com/Ayushi-Maurya2904/Games
-  
----
-
-## Quick stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayushi-Maurya2904&show_icons=true&count_private=true)
+## 🚀 About Me
+- 🔭 Currently building small **web games** and frontend projects  
+- 🌱 Learning **C++, JavaScript**, and **real-world Git workflows**  
+- 💡 Interested in **open source, web development, and software design**  
+- 🎯 Goal: Build strong fundamentals → Contribute to impactful open source → Crack GSoC & GATE AIR < 10  
 
 ---
 
-✨ Built with ❤️ by Ayushi Maurya
+## 🧰 Tech Stack
+**Languages:** C++, JavaScript, Python  
+**Frontend:** HTML, CSS, DOM  
+**Tools:** Git, GitHub, VS Code, Canva  
+
+---
+
+## 💼 Featured Projects
+- 🎮 [**Games**](https://github.com/Ayushi-Maurya2904/Games) — Fun web games built using HTML, CSS, and JS  
+- 🧠 *(More projects coming soon — stay tuned!)*  
+
+---
+
+## 📊 GitHub Stats
+![Ayushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayushi-Maurya2904&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushi-Maurya2904&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayushi%20Maurya-blue?logo=linkedin)](https://www.linkedin.com/in/ayushi-maurya/)
+[![GitHub](https://img.shields.io/badge/GitHub-Ayushi--Maurya2904-black?logo=github)](https://github.com/Ayushi-Maurya2904)
+
+---
+
+👩‍💻 *Built with ❤️ and curiosity by Ayushi Maurya*
+
