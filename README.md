@@ -11,7 +11,7 @@ I’m passionate about building clean, interactive web experiences while masteri
 - 🔭 Currently building small **web games** and frontend projects  
 - 🌱 Learning **C++, JavaScript**, and **real-world Git workflows**  
 - 💡 Interested in **open source, web development, and software design**  
-- 🎯 Goal: Build strong fundamentals → Contribute to impactful open source → Crack GSoC & GATE AIR < 10  
+- 🎯 Goal: Build strong fundamentals → Contribute to impactful open source 
 
 ---
 
